@@ -1,4 +1,8 @@
-# music-player
+# Music Player
+created in vuejs and using animejs for animations
+
+## Inspired from the dribbble shot [Music Player Interaction](https://dribbble.com/shots/4264905-Music-Player-Interaction)
+
 
 ## Project setup
 ```
@@ -24,6 +28,3 @@ npm run test:unit
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
